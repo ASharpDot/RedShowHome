@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedShowHome", "RedShowHome\RedShowHome.csproj", "{67528410-30C6-44D4-B274-B3E85B19DE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedShowHome.Tests", "RedShowHome.Tests\RedShowHome.Tests.csproj", "{0223D372-981B-4FEB-BC71-A0656F9E3C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67528410-30C6-44D4-B274-B3E85B19DE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67528410-30C6-44D4-B274-B3E85B19DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67528410-30C6-44D4-B274-B3E85B19DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67528410-30C6-44D4-B274-B3E85B19DE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0223D372-981B-4FEB-BC71-A0656F9E3C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0223D372-981B-4FEB-BC71-A0656F9E3C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0223D372-981B-4FEB-BC71-A0656F9E3C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0223D372-981B-4FEB-BC71-A0656F9E3C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
